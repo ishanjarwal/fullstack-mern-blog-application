@@ -35,23 +35,23 @@ To get started, you will have to install all the dependencies, set up the .env v
 And you are good to use it😊
 
 ## 🎨Features :
--User Authentication: Users can sign up, log in, and log out using JWT. Only authenticated users can create, edit, or delete blog posts.
--Create and Edit Posts: Authenticated users can create new blog posts and edit their existing posts.
--Delete Posts: Users can delete their own blog posts.
--Responsive Design: The application is designed to be responsive and accessible on various devices.
--File Uploads: Users can upload their display pictures and thumbnails. (to a limited size which can be set).
+- User Authentication: Users can sign up, log in, and log out using JWT. Only authenticated users can create, edit, or delete blog posts.
+- Create and Edit Posts: Authenticated users can create new blog posts and edit their existing posts.
+- Delete Posts: Users can delete their own blog posts.
+- Responsive Design: The application is designed to be responsive and accessible on various devices.
+- File Uploads: Users can upload their display pictures and thumbnails. (to a limited size which can be set).
 
-## Technologies Used:
--MongoDB: NoSQL database for storing blog post data.
--Express.js: Web application framework for building the server.
--ReactJS: JavaScript library for building the user interface.
--Node.js: JavaScript runtime for server-side development.
--JWT Authentication: JSON Web Tokens are used for user authentication.
--bcrypt.js: Library for hashing user passwords.
--Axios: HTTP client for making requests to the server.
--date-fns: for formatting dates.
--multer: for form data uploads.
--TailwindCSS: for reusable classnames.
+## 🌐Technologies Used:
+- MongoDB: NoSQL database for storing blog post data.
+- Express.js: Web application framework for building the server.
+- ReactJS: JavaScript library for building the user interface.
+- Node.js: JavaScript runtime for server-side development.
+- JWT Authentication: JSON Web Tokens are used for user authentication.
+- bcrypt.js: Library for hashing user passwords.
+- Axios: HTTP client for making requests to the server.
+- date-fns: for formatting dates.
+- multer: for form data uploads.
+- TailwindCSS: for reusable classnames.
 
 ## 📷Snapshots of the Project :
 1. SignUp Screen
