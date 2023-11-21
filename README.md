@@ -55,13 +55,20 @@ And you are good to use it😊
 
 ## 📷Snapshots of the Project :
 1. SignUp Screen
+![3](https://github.com/ishanjarwal/fullstack-mern-blog-application/assets/129817762/d82f02ef-e82b-49cb-8e42-99b7cde9cf5a)
 2. Login Screen
+![1](https://github.com/ishanjarwal/fullstack-mern-blog-application/assets/129817762/28d7a0ca-ed06-445f-a198-35c42a54c43b)
 3. Homepage
-4. Profile Page
-5. Your Posts Page
-6. Validation Errors on Profile page
+![Screenshot 2023-11-21 215941](https://github.com/ishanjarwal/fullstack-mern-blog-application/assets/129817762/3e289a1a-55c3-45b6-92aa-8df4e1f3dbe3)
+4. BlogPost Page
+![Screenshot 2023-11-21 220352](https://github.com/ishanjarwal/fullstack-mern-blog-application/assets/129817762/3194aa22-a7c3-46e5-85a3-670c737c79af)
+5. Profile Page
+![Screenshot 2023-11-21 220025](https://github.com/ishanjarwal/fullstack-mern-blog-application/assets/129817762/c9289f2a-1c4b-4368-b578-b26dc44ae418)
+6. Your Posts Page
+![Screenshot 2023-11-21 220054](https://github.com/ishanjarwal/fullstack-mern-blog-application/assets/129817762/ea374cd7-6a54-4e34-bc5f-5b0b2903083a)
 7. Write a New blog page
+![Screenshot 2023-11-21 220137](https://github.com/ishanjarwal/fullstack-mern-blog-application/assets/129817762/75cf6e1d-567b-46dc-9c4e-4af4a0a7ef1d)
 8. Validations on Blog page
-9. Saved Posts Page
-10. Edit Post page
-11. BlogPost page
+![Screenshot 2023-11-21 220200](https://github.com/ishanjarwal/fullstack-mern-blog-application/assets/129817762/485e8152-20bd-4117-b84c-787071873f91)
+9. Edit Post page
+![Screenshot 2023-11-21 220246](https://github.com/ishanjarwal/fullstack-mern-blog-application/assets/129817762/c875ef04-01ca-41ef-a837-92d80bd52f1a)
